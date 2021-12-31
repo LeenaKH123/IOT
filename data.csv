@@ -1,1 +1,2 @@
-1,2,3
+Loop,MeterNo,Address,Ch,Latitude,Data,Longitude,UpInterval,MeterSN,Remark,SwicthId,TimeZone,Model,Region,Key
+1,12109137160038_12109137160011,House 1,1,,"[{'Ch': '1', 'CreateTime': '2022-01-05 14:37:00', 'Data': [{'Value': '219.5', 'Unit': 'V', 'Key': 'Ua'}, {'Value': '1.81', 'Unit': 'A', 'Key': 'Ia'}, {'Value': '0.338', 'Unit': 'kW', 'Key': 'P'}, {'Value': '-0.059', 'Unit': 'kVar', 'Key': 'Q'}, {'Value': '0.985', 'Unit': '', 'Key': 'Pf'}, {'Value': '322.98', 'Unit': 'kWh', 'Key': 'Wh'}, {'Value': '8.64', 'Unit': 'kWh', 'Key': 'Wl'}, {'Value': '14.93', 'Unit': 'kVarh', 'Key': 'Varh'}, {'Value': '34.28', 'Unit': 'kVarh', 'Key': 'Varl'}]}]",,1,12109137160011,Test,12109137160038,2.0,ADL200,,0
